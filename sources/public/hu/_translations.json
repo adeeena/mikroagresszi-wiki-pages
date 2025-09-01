@@ -1,0 +1,17 @@
+﻿{
+  "general.lineWelcome": "👋 Üdvözlet a",
+  "general.title": "Mikroagresszió Wiki",
+  "general.lineExplain": "oldalán, ahol megértheted, milyen különböző mondatokkal, tevékenységekkel vagy akciókkal bántasz meg valakit, és hogyan kerülheted el ezeket a szituációkat.",
+  "general.intro": "Bevezető",
+  "general.close": "Bezár",
+  "home.recommendations": "Ajánló",
+  "general.allArticle": "Minden cikk",
+  "sidebar.title": "Dokumentumtár",
+  "footer.supportAt": "ITT TÁMOGATHATSZ MINKET:",
+  "footer.linksAt": "ITT ÉRHETSZ EL MINKET:",
+  "footer.emailOr": "vagy genderutikalauz@gmail.com",
+  "general.backToHome": "Vissza a főoldalra",
+  "entry.share": "Megosztás",
+  "entry.foundErrorTitle": "Elgépelést találtál? Helyesírási hiba szúrja a szemed? Esetleg tárgyi tévedést vétettünk?",
+  "entry.foundErrorText": "Jelentsd számunkra a <a href='mailto:genderutikalauz@gmail.com'>genderutikalauz@gmail.com</a> címen, hogy javíthassuk!"
+}

@@ -1,0 +1,39 @@
+﻿[
+  {
+    "title": "",
+    "children": [
+      {
+        "entryId": "mikroagressziok",
+        "title": "Alapvető tudnivalók"
+      },
+      {
+        "entryId": "faji-hovatartozas-etnikum",
+        "title": "Faji hovatartozás, Etnikum"
+      },
+      {
+        "entryId": "fogyatekossag",
+        "title": "♿️ Fogyatékosság"
+      },
+      {
+        "entryId": "kor",
+        "title": " Kor"
+      },
+      {
+        "entryId": "lmbt",
+        "title": "🌈 LMBT+"
+      },
+      {
+        "entryId": "nem",
+        "title": "Nem"
+      },
+      {
+        "entryId": "osztalyalapu",
+        "title": "Osztályalapú"
+      },
+      {
+        "entryId": "vallas",
+        "title": "Vallás"
+      }
+    ]
+  }
+]

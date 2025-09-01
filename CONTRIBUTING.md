@@ -1,4 +1,4 @@
-# Contributing to Gender Utikalauz
+# Contributing to Mikroagresszi Wiki
 
 Thank you for considering contributing to Gender Utikalauz. We welcome your contributions to help make this project a valuable resource for the LGBTQ community in Hungary. Please take a moment to review this guide to understand how you can contribute effectively.
 
@@ -21,7 +21,7 @@ Please review our [Code of Conduct](CODE_OF_CONDUCT.md) to understand the behavi
 
 ### Reporting Bugs
   
-If you encounter a bug while using Gender Utikalauz, please [open an issue](https://github.com/adeeena/gender-utikalauz/issues/new) on our GitHub repository and provide as much detail as possible. Be sure to include:
+If you encounter a bug while using Mikroagresszi Wiki, please [open an issue](https://github.com/adeeena/mikroagresszi-wiki-pages/issues/new) on our GitHub repository and provide as much detail as possible. Be sure to include:
 
 - A clear and descriptive title.
 - A detailed description of the issue, including steps to reproduce it.
@@ -29,7 +29,7 @@ If you encounter a bug while using Gender Utikalauz, please [open an issue](http
 
 ### Suggesting Enhancements
 
-If you have ideas for enhancements or new features, please [open an issue](https://github.com/adeeena/gender-utikalauz/issues/new) on our GitHub repository with the following information:
+If you have ideas for enhancements or new features, please [open an issue](https://github.com/adeeena/mikroagresszi-wiki-pages/issues/new) on our GitHub repository with the following information:
 
 - A clear and descriptive title.
 - A detailed description of the proposed enhancement or feature.
@@ -37,7 +37,7 @@ If you have ideas for enhancements or new features, please [open an issue](https
 
 ### Code Contributions
 
-We welcome code contributions that improve Gender Utikalauz. To contribute code, please follow these steps:
+We welcome code contributions that improve Mikroagresszi Wiki. To contribute code, please follow these steps:
 
 1. Fork the repository on GitHub.
 2. Clone your forked repository locally.
@@ -49,7 +49,7 @@ We welcome code contributions that improve Gender Utikalauz. To contribute code,
 
 ## Development Setup
 
-To set up a development environment for Gender Utikalauz, follow the instructions in the [README](README.md) for installation and local development.
+To set up a development environment for Mikroagresszi Wiki, follow the instructions in the [README](README.md) for installation and local development.
 
 ## Submitting a Pull Request
 
@@ -64,8 +64,8 @@ Our maintainers will review your PR, provide feedback, and merge it if it meets 
 
 ## License
 
-By contributing to Gender Utikalauz, you agree that your contributions will be licensed under the [MIT License](LICENSE).
+By contributing to Mikroagresszi Wiki, you agree that your contributions will be licensed under the [MIT License](LICENSE).
 
 ---
 
-Thank you for your contributions to Gender Utikalauz. Together, we can create a valuable resource for the LGBTQ community!
+Thank you for your contributions to Mikroagresszi Wiki. Together, we can create a valuable resource for Hungarian-speaking people!

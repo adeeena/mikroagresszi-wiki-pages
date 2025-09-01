@@ -1,6 +1,6 @@
-# Gender Utikalauz
+# Mikroagresszi Wiki
 
-Welcome to Gender Utikalauz, a project built with Angular 13, dedicated to serving as a Hungarian LGBTQ Info Sharing Wiki and community resource.
+Welcome to Mikroagresszi Wiki, a project built with Angular 20, dedicated to serving as a Hungarian LGBTQ Info Sharing Wiki and community resource.
 
 ## Table of Contents
 
@@ -34,13 +34,13 @@ Before you start, ensure you have met the following requirements:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/adeeena/gender-utikalauz.git
+   git clone https://github.com/adeeenamikroagresszi-wiki-pages.git
    ```
 
 2. Navigate to the project directory:
 
    ```bash
-   cd gender-utikalauz
+   cd mikroagresszi-wiki-pages
    ```
 
 3. Install dependencies:
@@ -49,13 +49,7 @@ Before you start, ensure you have met the following requirements:
    npm install
    ```
 
-4. Start the development server with the client:
-
-   ```bash
-   ng serve
-   ```
-
-5. Start the development server with the server:
+4. Start the development server with the server:
 
    ```bash
    cd ../api
@@ -63,18 +57,16 @@ Before you start, ensure you have met the following requirements:
    node server.js
    ```
 
-6. Open your web browser and visit [http://localhost:4200](http://localhost:4200) to access the application.
-
-6B. The API can be found at [http://localhost:3000](http://localhost:3000).
+5. The API can be found at [http://localhost:3000](http://localhost:3000).
 
 ## Usage
 
-- Explore and navigate through the Gender Utikalauz wiki to find information.
+- Explore and navigate through the Mikroagresszi wiki to find information.
 - (future) Use the search functionality to quickly locate specific topics or resources.
 
 ## Contributing
 
-We welcome contributions from the community. If you would like to contribute to Gender Utikalauz, please follow these steps:
+We welcome contributions from the community. If you would like to contribute to Mikroagresszi Wiki, please follow these steps:
 
 1. Fork the repository on GitHub.
 2. Clone your forked repository locally.
@@ -91,5 +83,5 @@ This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-Thank you for contributing to Gender Utikalauz! Your support helps make this platform a valuable resource for the LGBTQ community in Hungary.
+Thank you for contributing to Mikroagresszi Wiki! Your support helps make this platform a valuable resource each Hungarian-speaking person.
 ```

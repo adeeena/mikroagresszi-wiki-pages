@@ -64,6 +64,7 @@ app.get('/related', (req, res) => {
     const files = fs.readdirSync(folderPath);
 
     files.forEach((file) => {
+      try {
       if (path.extname(file) === '.md') {
         if (file === id + '.md') {
           return;
@@ -89,6 +90,10 @@ app.get('/related', (req, res) => {
           });
         }
       }
+    } catch (error) {
+      console.error(error);
+      res.status(500).json({ error: 'Something went wrong (intl): ' + error.message });
+    } 
     });
 
     res.status(200).json(relatedFiles);

@@ -94,7 +94,7 @@ app.get('/related', (req, res) => {
     res.status(200).json(relatedFiles);
   } catch (error) {
     console.error(error);
-    res.status(500).json({ error: 'Something went wrong.' });
+    res.status(500).json({ error: 'Something went wrong: ' + error.message });
   }
 });
 

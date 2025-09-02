@@ -1,9 +1,9 @@
 ---
 title: "🚫 X éves vagy, fiatal(-os) vagy!"
-description: "🚫 Faji hovatartozás, etnikum elleni mikroagressziók magyarázata, háttere, javaslatok."
+description: "🚫 Mikroagressziók magyarázata, háttere, javaslatok."
 lang: hu
 source: e1ec247b-ecb7-482b-801d-264817b6b0c5
-categories: faji-hovatartozas-etnikum
+categories: kor
 ---
 
 <div class="wiki-content agression-title">
@@ -16,7 +16,7 @@ Az életkorhoz kapcsolódó előítéletek nem csak az egyének önértékelés�
 
 <div class="categories">
 
-[Faji hovatartozás, etnikum](/#/entry?id=faji-hovatartozas-etnikum)
+[Kor](/#/entry?id=kor)
 
 </div>
 

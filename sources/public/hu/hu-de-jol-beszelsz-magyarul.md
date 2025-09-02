@@ -1,5 +1,5 @@
 ---
-title: "🚫 A fiúk már csak ilyenek."
+title: "🚫 Hú, de jól beszélsz magyarul"
 description: "🚫 Mikroagressziók magyarázata, háttere, javaslatok."
 lang: hu
 source: 735b9f25-6e98-44d5-a0c8-78bbbc92c9b7
@@ -8,7 +8,7 @@ categories: faji-hovatartozas-etnikum
 
 <div class="wiki-content agression-title">
 
-# 🚫 A fiúk már csak ilyenek.
+# 🚫 Hú, de jól beszélsz magyarul
 
 Ez a megjegyzés erősítheti azokat a sztereotípiákat, amelyek szerint a kisebbségi emberek nem lehetnek magabiztosak a magyar nyelv használatában, vagy hogy nem számítanak teljes értékű tagjainak a magyar társadalomnak. Azt sugallhatja, hogy a kisebbségi embereknek valamilyen módon különleges képessége vagy teljesítménye van ahhoz képest, amit a társadalom általában elvárna tőlük.
 
@@ -18,7 +18,7 @@ Fontos felismerni és megértetni az ilyen megjegyzések mögött meghúzódó s
 
 <div class="categories">
 
-[faji hovatartozás, etnikum](/#/entry?id=faji-hovatartozas-etnikum)
+[Faji hovatartozás, etnikum](/#/entry?id=faji-hovatartozas-etnikum)
 
 </div>
 

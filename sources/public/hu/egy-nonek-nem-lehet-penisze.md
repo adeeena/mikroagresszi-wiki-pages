@@ -1,5 +1,5 @@
 ---
-title: "🚫 Transzfób állitások, mint "Egy nőnek nem lehet pénisze"."
+title: "🚫 Transzfób állitások, mint 'Egy nőnek nem lehet pénisze'."
 description: "🚫 Mikroagressziók magyarázata, háttere, javaslatok."
 lang: hu
 source: https://toutesdesfemmes.fr/faq/#1A

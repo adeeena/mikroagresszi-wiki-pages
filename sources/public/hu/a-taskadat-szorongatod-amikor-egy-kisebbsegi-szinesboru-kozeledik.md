@@ -3,7 +3,7 @@ title: "🚫 A táskádat szorongatod, amikor egy kisebbségi vagy színesbőrű
 description: "🚫 Faji hovatartozás, etnikum elleni mikroagressziók magyarázata, háttere, javaslatok."
 lang: hu
 source: cbbbf40e-d64e-4bb9-b604-0736f5a49f65
-categories: faji-hovatartozas-etnikumw
+categories: faji-hovatartozas-etnikum
 ---
 
 <div class="wiki-content agression-title">

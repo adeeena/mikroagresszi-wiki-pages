@@ -3,7 +3,7 @@ title: "🚫 Kritizálni valakit azért, mert a mentális egészségét helyezi 
 description: "🚫 Mikroagressziók magyarázata, háttere, javaslatok."
 lang: hu
 source: 524827e7-c16d-47dc-b094-af6ac1a2a484
-source: fogyatekossag
+categories: fogyatekossag
 ---
 
 <div class="wiki-content agression-title">
